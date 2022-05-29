@@ -43,7 +43,7 @@ I am passionate about implementing and launching new projects. I also posses the
     <img src="https://addons.mozilla.org/user-media/previews/full/239/239941.png?modified=1622136120" alt="reactjs"  width="100" height="100" padding='5px'/>
 <!--     <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/>  -->
     <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="100" height="100" padding='5px'/>
-    <img src="https://softprodigy.com/wp-content/uploads/2019/06/nodejs-logo.png" alt="node.js" width="100" height="100" padding='5px'/>
+    <img src="https://softprodigy.com/wp-content/uploads/2019/06/nodejs-logo.png" alt="node.js" width="80" height="100" padding='5px'/>
     <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" width="100" height="100" alt="npm" padding='5px'/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" padding='5px'/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" padding='5px'/>
