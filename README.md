@@ -17,11 +17,13 @@
 </p>
 
 
-<a href="[https://www.linkedin.com/in/Abhishek-Dewangan/](https://www.linkedin.com/in/abhishek-dewangan-319345218/](https://www.linkedin.com/in/abhishek-dewangan-319345218/)">
+<a href=[https://www.linkedin.com/in/abhishek-dewangan-319345218/]('https://www.linkedin.com/in/abhishek-dewangan-319345218/')>
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <br/>
 <br/>
+
 ## About Me
 <img align='right' src="https://as1.ftcdn.net/v2/jpg/01/97/45/30/1000_F_197453054_QnmvNJlZMhxofjRwM3BrKULfoavinPh3.jpg" width="230">
 I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.
