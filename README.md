@@ -17,7 +17,7 @@
 </p>
 
 
-<a href=[https://www.linkedin.com/in/abhishek-dewangan-319345218/]('https://www.linkedin.com/in/abhishek-dewangan-319345218/')>
+<a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/'>
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
