@@ -43,7 +43,7 @@ I am passionate about implementing and launching new projects. I also posses the
     <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="100" height="100" margin='5px'/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="100" height="100" margin='5px'/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" margin='5px'/>
-    <img src="![image](https://user-images.githubusercontent.com/99542668/170860421-e354bb64-c777-4ffc-92a4-e8833a24214f.png)" alt="express" width="100" height="100" margin='5px'/>
+    <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="express" width="100" height="100" margin='5px'/>
     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm" margin='5px'/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" margin='5px'/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" margin='5px'/>
