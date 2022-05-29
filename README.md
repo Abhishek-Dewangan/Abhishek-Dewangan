@@ -37,16 +37,16 @@ I am passionate about implementing and launching new projects. I also posses the
 ## 🚀 Languages and Tools:
 <!--  <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="400" height="220" /> -->
 <p align="center"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5" width="100" height="100" margin='5px'/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="100" height="100" margin='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="100" height="100" margin='5px'/>
-    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="100" height="100" margin='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="100" height="100" margin='5px'/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" margin='5px'/>
-    <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="express" width="100" height="100" margin='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm" margin='5px'/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" margin='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" margin='5px'/>
+    <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/01/hr.png" alt="html-5" width="100" height="100" padding='5px'/> 
+    <img src="https://images7.webydo.com/90/9098746/3958/46d2d005-1b02-4961-aa1d-0aba7f7209bd.jpg" alt="css3" width="100" height="100" padding='5px'/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="100" height="100" padding='5px'/>
+    <img src="https://addons.mozilla.org/user-media/previews/full/239/239941.png?modified=1622136120" alt="reactjs"  width="100" height="100" padding='5px'/>
+    <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/> 
+    <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongodb" width="100" height="100" padding='5px'/>
+    <img src="https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/01/08073042/express-1.png" alt="express" width="100" height="100" padding='5px'/>
+    <img src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png"  alt="npm" padding='5px'/>   
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" padding='5px'/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" padding='5px'/>
 </p>
 
 <br/>
