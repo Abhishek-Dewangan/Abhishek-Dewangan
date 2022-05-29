@@ -44,7 +44,7 @@ I am passionate about implementing and launching new projects. I also posses the
 <!--     <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/>  -->
     <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongodb" width="100" height="100" padding='5px'/>
     <img src="https://lh3.googleusercontent.com/sXGtOdpIZCKOcmb_QQx56sZBQrI5NWlXE8tK4WRXpG_ggm8r7-3RJHFbUJt4OPg3LrCkSMdz_gDDI4SOVfX-J6Ify00=s512" alt="express" width="100" height="100" padding='5px'/>
-    <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png"  alt="npm" padding='5px'/>   
+    <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" width="100" height="100" alt="npm" padding='5px'/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" padding='5px'/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" padding='5px'/>
 </p>
