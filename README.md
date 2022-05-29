@@ -37,14 +37,14 @@ I am passionate about implementing and launching new projects. I also posses the
 ## 🚀 Languages and Tools:
 <!--  <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="400" height="220" /> -->
 <p align="center"> 
-    <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/01/hr.png" alt="html-5" width="100" height="100" padding='5px'/> 
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html-5" width="100" height="100" padding='5px'/> 
     <img src="https://images7.webydo.com/90/9098746/3958/46d2d005-1b02-4961-aa1d-0aba7f7209bd.jpg" alt="css3" width="100" height="100" padding='5px'/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="100" height="100" padding='5px'/>
     <img src="https://addons.mozilla.org/user-media/previews/full/239/239941.png?modified=1622136120" alt="reactjs"  width="100" height="100" padding='5px'/>
-    <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/> 
+<!--     <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/>  -->
     <img src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png" alt="mongodb" width="100" height="100" padding='5px'/>
-    <img src="https://eww-wp-new.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/01/08073042/express-1.png" alt="express" width="100" height="100" padding='5px'/>
-    <img src="https://w7.pngwing.com/pngs/828/432/png-transparent-npm-node-js-computer-icons-computer-software-installation-others-text-rectangle-logo.png"  alt="npm" padding='5px'/>   
+    <img src="https://lh3.googleusercontent.com/sXGtOdpIZCKOcmb_QQx56sZBQrI5NWlXE8tK4WRXpG_ggm8r7-3RJHFbUJt4OPg3LrCkSMdz_gDDI4SOVfX-J6Ify00=s512" alt="express" width="100" height="100" padding='5px'/>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX////LODfJKyrioaHKMC/ZfHvIIiDz2dnek5LJLSzKNTTQSkn24uLIIiHMOTn129vinZ367e3uy8rSVlX99/fdjYzmrq7uxMPQTEvFAADWcXHNQD/GEQ/35+fVbWz77+/bhITUZmXmsLDyHCq4AAAB8UlEQVR4nO3b0VbaQBRAUYNtkEgBFQpUrG3//yO7ipmxNBAvTYrQtffjcBPn+GKWGa6uAAAAAAAAAAAAAAAAAAAAAADgaMvZ9bmbLTsVLsrBuSsXnQpvRsW5G90oVHjuFCpMhdWHgPxTI8NHTh+8vqfC6uFjQN7yl8Dw17TFSeTWh6/vqXBwHZmeVC/T5VNgePqp/uXd/t3WxmW/hbPIdC4cB4aHHQunCmMU7lK4Q+FbFAa1FM7vas95qaUwT8/TSlthGr5ruf7fF96vy63N6w5bCpf19PpzWmkpnNfD5To/Onzb1Ct5IycoTDt8yEtthfX0IFQ4KOob5cJF4+FKYZBChZnCHQq3FAYpVJgp3KFwS2GQQoXZsnx52VD+t4VNChUqDFKosIXCUxc233J3LRy3/Fc/nY8o8xuD5kZ6fstdPK5u/1TnFJP00apIG2sW3k8OXl8cvnWVFlaPRWMjVb+FRdVQND5qKVyWgesDt24uvcuJoZYn7/4pVKhwL4W96li4qF8uh+SIPefa0vNBMTrihiGbbifZn4ZHmE7qij1nE7/nv8/TY24ZETkm2Jf01LbnxGj6ZPDjhPvpX/Hbo8cBr/9ru0gKFZ4/hZdfOHr7m2abyy6MfFtw+N6bBAAAAAAAAAAAAAAAAAAAAACAX34CrC5ayvgCOKgAAAAASUVORK5CYII="  alt="npm" padding='5px'/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" padding='5px'/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" padding='5px'/>
 </p>
