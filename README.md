@@ -22,9 +22,9 @@
 <br/>
 
 ## About Me
-<img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="250" height='230'>
+<img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'>
 I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.
-
+<br/>
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..
