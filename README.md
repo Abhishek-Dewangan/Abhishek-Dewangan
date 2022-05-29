@@ -1,12 +1,9 @@
-### Hi there 👋
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhi-lab2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeabhi1997&layout=compact">
 
  -->
-
-
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Abhishek Dewangan </a>!
    
@@ -25,7 +22,7 @@
 <br/>
 
 ## About Me
-<img align='right' src="https://as1.ftcdn.net/v2/jpg/01/97/45/30/1000_F_197453054_QnmvNJlZMhxofjRwM3BrKULfoavinPh3.jpg" width="230">
+<img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="230">
 I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.
 
 - 🌱 I’m currently learning MERN 
