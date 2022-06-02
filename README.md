@@ -60,7 +60,29 @@ I am passionate about implementing and launching new projects. I also posses the
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python" /></a>
 </p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.microsoft.com/en-us/powershell/">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
+      </a>
+      <br>Bash
+    </td>
+    </td>
+  </tr>
+</table> 
 <br/>
 
 ## 📊 My Github Stats
