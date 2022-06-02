@@ -34,6 +34,16 @@ I am passionate about implementing and launching new projects. I also posses the
 <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
  <br>
  
+ ![age](https://img.shields.io/badge/age-24-blue&height="20")
+![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+=============================
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@callmeabhi1997)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/callmeabhi1997)
+
+<br>
+ 
 ## 🚀 Languages and Tools:
 <!--  <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="400" height="220" /> -->
 <p align="center"> 
