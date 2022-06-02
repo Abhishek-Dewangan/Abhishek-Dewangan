@@ -70,7 +70,7 @@ I am passionate about implementing and launching new projects. I also posses the
     </td>
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/[ps_black_128.svg](https://img.icons8.com/color/344/visual-studio--v2.png)" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
