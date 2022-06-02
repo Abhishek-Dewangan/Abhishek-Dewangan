@@ -46,17 +46,19 @@ I am passionate about implementing and launching new projects. I also posses the
  
 ## 🚀 Languages and Tools:
 <!--  <img align="right" alt="GIF" clear = "both" src="https://media.istockphoto.com/vectors/young-woman-with-dark-hair-works-on-a-laptop-work-from-home-freelance-vector-id1269035028" width="400" height="220" /> -->
-<p align="center"> 
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html-5" width="100" height="100" padding='5px'/> 
-    <img src="https://images7.webydo.com/90/9098746/3958/46d2d005-1b02-4961-aa1d-0aba7f7209bd.jpg" alt="css3" width="100" height="100" padding='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="100" height="100" padding='5px'/>
-    <img src="https://addons.mozilla.org/user-media/previews/full/239/239941.png?modified=1622136120" alt="reactjs"  width="100" height="100" padding='5px'/>
-<!--     <img src="https://miro.medium.com/fit/c/294/294/1*WDX58nzlaiClqTFT59v7RQ.jpeg" alt="nodejs" width="100" height="100" padding='5px'/>  -->
-    <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="100" height="100" padding='5px'/>
-    <img src="https://softprodigy.com/wp-content/uploads/2019/06/nodejs-logo.png" alt="node.js" width="80" height="100" padding='5px'/>
-    <img src="https://brandeps.com/logo-download/N/Npm-logo-vector-01.svg" width="100" height="100" alt="npm" padding='5px'/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" alt="postman" padding='5px'/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="100" height="100" padding='5px'/>
+<p align="center">  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="MongoDB" /></a>  
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python" /></a>
 </p>
 
 <br/>
