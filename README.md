@@ -84,11 +84,10 @@ I am passionate about implementing and launching new projects. I also posses the
 
   <h2>ℹ️ &nbsp;Github Info</h2>
 
-  <div>
-    <p><b>🔎 Github Profile Details</b></p><br/>
-    <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
-</div>
 <div>
+  <p><b>🔎 Github Profile Details</b></p><br/>
+  <p align="center"><img width="600px" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
+</div>
 
 <div>
   <p><b>📊 Github Contribution Graph</b></p><br/>
