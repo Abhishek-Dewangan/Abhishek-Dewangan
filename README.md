@@ -78,7 +78,7 @@ I am passionate about implementing and launching new projects. I also posses the
     </a>
     </p>
      <p> <a href="https://github.com/Abhishek-Dewangan/github-readme-stats">
-        <img  alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img width="700px" height="200px" alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
       </p>
       </div>
