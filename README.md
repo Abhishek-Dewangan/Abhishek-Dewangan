@@ -11,12 +11,6 @@
 <a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/' target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href='https://leetcode.com/callmeabhi1997/' target="_blank" >
-  <img align="left" alt="Abhishek's LinkedIn" style="border-radius:5px" width="40px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
-</a>
-<a href='https://medium.com/@callmeabhi1997' target="_blank">
-  <img align="left" alt="Abhishek's LinkedIn" width="40px" border-radius="5px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" />
-</a>
 
 <br/>
 <br/>
@@ -40,8 +34,11 @@ I am passionate about implementing and launching new projects. I also posses the
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@callmeabhi1997)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=white&color=yello)](https://leetcode.com/callmeabhi1997/)
+
+
 
 <br>
 
