@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href='https://leetcode.com/callmeabhi1997/' target="_blank" >
-  <img align="left" alt="Abhishek's LinkedIn" style="background:white" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" />
+  <img align="left" alt="Abhishek's LinkedIn" style="background:white" width="40px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <a href='https://medium.com/@callmeabhi1997' target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" />
