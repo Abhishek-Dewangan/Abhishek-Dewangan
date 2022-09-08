@@ -60,7 +60,7 @@ I am passionate about implementing and launching new projects. I also posses the
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-43853D?style=for-the-badge&logo=bootstrap&logoColor=violet" />  
+  <img src="https://img.shields.io/badge/Bootstrap-43853D?style=for-the-badge&logo=bootstrap&logoColor=violet&badgeColor=9400d3" />  
 </div>
 
 <br>
