@@ -34,9 +34,9 @@ I am passionate about implementing and launching new projects. I also posses the
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=black)](https://medium.com/@callmeabhi1997)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=white)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
-[![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=white&color=yello)](https://leetcode.com/callmeabhi1997/)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=white&color=yellow)](https://leetcode.com/callmeabhi1997/)
 
 
 
