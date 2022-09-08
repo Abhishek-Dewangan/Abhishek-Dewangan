@@ -37,7 +37,7 @@ I am passionate about implementing and launching new projects. I also posses the
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank--informational?style=flat&logo=hackerrank&logoColor=white&color=green)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank--informational?style=flat&logo=hackerrank&logoColor=006400&color=green)
 
 
 
