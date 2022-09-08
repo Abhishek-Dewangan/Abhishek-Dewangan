@@ -1,3 +1,6 @@
+
+<img src="https://im4.ezgif.com/tmp/ezgif-4-86c0587890.jpg">
+
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan </a>!
 </h2>
