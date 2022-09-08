@@ -74,7 +74,7 @@ I am passionate about implementing and launching new projects. I also posses the
 <br/>
 <div style="display: flex;">
   <p><a href="https://github.com/Abhishek-Dewangan/github-readme-stats">
-      <img  alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+      <img width="700px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     </a>
     </p>
      <p> <a href="https://github.com/Abhishek-Dewangan/github-readme-stats">
