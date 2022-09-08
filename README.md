@@ -27,7 +27,7 @@ I am passionate about implementing and launching new projects. I also posses the
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 
-![age](https://img.shields.io/badge/age-24-blue&height="20")
+![age](https://img.shields.io/badge/age-25-blue&height="20")
 ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
