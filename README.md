@@ -11,7 +11,7 @@
 <a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/' target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href='https://leetcode.com/callmeabhi1997/' target="_blank">
+<a href='https://leetcode.com/callmeabhi1997/' target="_blank" style="background:white">
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" />
 </a>
 <a href='https://medium.com/@callmeabhi1997' target="_blank">
