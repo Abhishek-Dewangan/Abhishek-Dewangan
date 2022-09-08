@@ -14,9 +14,6 @@
 <a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/'>
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href='https://medium.com/@callmeabhi1997'>
-  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
-</a>
 
 <br/>
 <br/>
