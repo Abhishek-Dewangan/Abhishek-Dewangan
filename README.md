@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://im4.ezgif.com/tmp/ezgif-4-075be572b9.jpg"></p>
 
 <h2 align="center">
@@ -9,8 +8,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
 
-<a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/'>
+<a href='https://www.linkedin.com/in/abhishek-dewangan-319345218/' target="_blank">
   <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href='https://leetcode.com/callmeabhi1997/' target="_blank">
+  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png" />
+</a>
+<a href='https://medium.com/@callmeabhi1997' target="_blank">
+  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" />
 </a>
 
 <br/>
@@ -81,7 +86,7 @@ I am passionate about implementing and launching new projects. I also posses the
 </div>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
  <br>
 
