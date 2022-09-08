@@ -81,7 +81,6 @@ I am passionate about implementing and launching new projects. I also posses the
    <div style="display: flex;">
     <a href="https://github.com/Abhishek-Dewangan/github-readme-stats"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     </a>
-    </br>
   <a href="https://github.com/Abhishek-Dewangan/github-readme-stats"><img alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </div>
@@ -89,7 +88,7 @@ I am passionate about implementing and launching new projects. I also posses the
 
  <br>
 
-  <h2>ℹ️ &nbsp;Github Info</h2>;
+  <h2>ℹ️ &nbsp;Github Info</h2>
 
   <div>
     <p><b>🔎 Github Profile Details</b></p><br/>
