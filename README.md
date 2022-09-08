@@ -15,7 +15,7 @@
   <img align="left" alt="Abhishek's LinkedIn" style="border-radius:5px" width="40px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <a href='https://medium.com/@callmeabhi1997' target="_blank">
-  <img align="left" alt="Abhishek's LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" />
+  <img align="left" alt="Abhishek's LinkedIn" width="40px" border-radius="5px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" />
 </a>
 
 <br/>
