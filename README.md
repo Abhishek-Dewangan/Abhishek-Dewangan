@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://im4.ezgif.com/tmp/ezgif-4-4c83d345d9.jpg"></p>
+<p align="center"><img src="https://im4.ezgif.com/tmp/ezgif-4-075be572b9.jpg"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan </a>!
