@@ -9,8 +9,8 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center' fontSize='20px'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
-<br/>
+<h4 align='center'>Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h4>
+
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 - 🌱 I’m currently learning MERN
