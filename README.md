@@ -9,7 +9,7 @@
 </p>
 
 
-## About Me
+<h2 align="center">About Me</h2>
 <p align='justify'>I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</p>
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
