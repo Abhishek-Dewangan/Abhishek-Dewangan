@@ -29,6 +29,7 @@
 ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
+### Find me here: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
@@ -60,7 +61,7 @@
 
 <br>
 
-<div style="display: flex;">
+<div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
