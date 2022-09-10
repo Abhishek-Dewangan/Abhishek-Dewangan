@@ -80,14 +80,12 @@
     <img width="300px" height="200px" alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <br/>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
   <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
 <div>
-  <p align='center'><b>🔎 Github Profile Details</b></p><br/>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
 </div>
 
