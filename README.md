@@ -37,7 +37,7 @@
   [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
   [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
-  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)
+  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/callmeabhi1997)
 </div>
 
 <br>
