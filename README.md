@@ -83,9 +83,8 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
- <br>
 
-  <h2 align='center'>ℹ️ &nbsp;Github Info</h2>
+  <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
 
 <div>
   <p align='center'><b>🔎 Github Profile Details</b></p><br/>
@@ -93,7 +92,7 @@
 </div>
 
 <div>
-  <p align='center'><b>📊 Github Contribution Graph</b></p><br/>
+  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
   <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
