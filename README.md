@@ -24,19 +24,21 @@
 - 😄 Pronouns: He/Him
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
-
+<div align='center'>
 ![age](https://img.shields.io/badge/age-25-blue&height="20")
 ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+</div>
 =============================
 
 <h3 align='center'> 🔍 Find me here </h3>
-
+<div align='center'>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)
+</div>
 
 <br>
 
