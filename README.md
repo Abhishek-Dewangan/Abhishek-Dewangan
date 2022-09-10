@@ -29,6 +29,7 @@
   ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
+<br/>
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
