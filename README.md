@@ -14,7 +14,7 @@
 ## About Me
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-<p align='justify' style='margin:1em'>I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</p>
+<p align='justify' margin='1em'>I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</p>
 
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Linkedin
@@ -30,7 +30,6 @@
   ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
-=============================
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
