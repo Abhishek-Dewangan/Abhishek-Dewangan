@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
 
-<br/>
-<br/>
 
 ## About Me
 <p align='justify'>I am passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</p>
