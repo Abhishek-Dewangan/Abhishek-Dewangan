@@ -29,7 +29,8 @@
 ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
-### Find me here: 
+
+<h3 align='center'> 🔍 Find me here</h3>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
@@ -38,7 +39,7 @@
 
 <br>
 
-<h2> :pencil: Technical Skills</h2>
+<h2 align='center'> :pencil: Technical Skills</h2>
 
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,7 +71,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-## 📊 My Github Stats
+<h2 align='center'>📊 My Github Stats</h2>
 
 <br/>
 <div style="display: flex;">
@@ -83,20 +84,20 @@
 
  <br>
 
-  <h2>ℹ️ &nbsp;Github Info</h2>
+  <h2 align='center'>ℹ️ &nbsp;Github Info</h2>
 
 <div>
-  <p><b>🔎 Github Profile Details</b></p><br/>
+  <p align='center'><b>🔎 Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
 </div>
 
 <div>
-  <p><b>📊 Github Contribution Graph</b></p><br/>
+  <p align='center'><b>📊 Github Contribution Graph</b></p><br/>
   <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
 <div>
-  <p><b>🏆 Github Achievements</b></p><br/>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
   <p align="center"> <a href="https://github.com/Abhishek-Dewangan"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Dewangan&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
 </div>
 
