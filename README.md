@@ -1,4 +1,4 @@
-<!-- <p align="center"><img src=""></p> -->
+<p align="center"><img src="./Image/bg.jpg"></p>
 ![Image](./Image/bg.jpg?raw=true)
 
 <h2 align="center">
