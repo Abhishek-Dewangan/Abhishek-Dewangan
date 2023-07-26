@@ -112,7 +112,7 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 </div>
 
 <div>
-  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
+  <p align='center'><b>📊 Github Contribution Graph</b></p><br/>
   <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </div>
 
