@@ -13,7 +13,6 @@
 
 In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked as a Java developer specializing in Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
 
-
 <h4>💼 What I do:</h4>
   <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
     Develop responsive front-end interfaces with HTML, CSS, and JavaScript.
@@ -43,20 +42,23 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 <div align='center'>
 
   <!-- ![age](https://img.shields.io/badge/age-25-blue&height="20") -->
-  ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
-  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+
+![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+
 </div>
 <br/>
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://abhishekdewanganportfolio.netlify.app/)
-  [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
-  [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
-  [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/callmeabhi1997)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/abhishek-dewangan-319345218/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://abhishekdewanganportfolio.netlify.app/)
+[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://medium.com/@callmeabhi1997)
+[![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/Abhishek-Dewangan)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/callmeabhi1997/)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/callmeabhi1997)
+
 </div>
 
 <br>
@@ -104,17 +106,17 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 <br/>
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-  <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
+  <h2 align='center'>ℹ &nbsp;Github Info</h2>
 
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Dewangan&theme=github_dark" alt="Abhishek-Dewangan" align = "center"/></p>
 </div>
-
+<!-- 
 <div>
   <p align='center'><b>📊 Github Contribution Graph</b></p><br/>
-  <p align="center"<a href="#"><img alt="Abhishek-Dewangan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</div>
+  <p align="center"<a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dewangan&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" alt="Abhishek-Dewangan's Activity Graph"/></a></p>
+</div> -->
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
