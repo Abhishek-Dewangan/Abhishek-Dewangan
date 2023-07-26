@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
 </p>
 
-<h2 align="center"> :card_file_box: About Me</h2>
+<h2 align="center" margin-top={0}> :card_file_box: About Me</h2>
 <h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
 
-In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked as a Java developer specializing in Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
+In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked in Java and Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
 
 <h4>💼 What I do:</h4>
   <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
@@ -47,7 +47,6 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 </div>
-<br/>
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
@@ -60,8 +59,6 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/callmeabhi1997)
 
 </div>
-
-<br>
 
 <h2 align='center'> :pencil: Technical Skills</h2>
 
@@ -85,8 +82,6 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
 </div>
 
-<br>
-
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -103,7 +98,6 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
     <img width="450px" height="200px" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Dewangan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="300px" height="200px" alt="Abhishek-Dewangan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Dewangan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
-<br/>
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
   <h2 align='center'>ℹ &nbsp;Github Info</h2>
