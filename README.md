@@ -11,7 +11,6 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.</h4>
 
-<img src="./Image/fullstack.gif"/><br/>
 
 <h4>💼 What I do:</h4>
   <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
@@ -32,6 +31,8 @@
   My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
   
   Happy coding and exploring! 🚀</p>
+
+  <img align="center" src="./Image/fullstack.gif"/><br/>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
