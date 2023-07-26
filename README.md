@@ -32,7 +32,8 @@
   
   Happy coding and exploring! 🚀</p>
 
-  <img align="center" src="./Image/fullstack.gif"/><br/>
+  <div align="center"><img src="./Image/fullstack.gif"/></div>
+  <br/>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
