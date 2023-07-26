@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>👋 Hey there! I'm [Your Name], a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
+<h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
 
 In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked as a Java developer specializing in Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
 
@@ -42,7 +42,7 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
    <br>
 <div align='center'>
 
-  ![age](https://img.shields.io/badge/age-25-blue&height="20")
+  <!-- ![age](https://img.shields.io/badge/age-25-blue&height="20") -->
   ![living](https://img.shields.io/badge/living-Bilaspur,Chhattisgarh-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
@@ -74,6 +74,7 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=black" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
