@@ -1,4 +1,4 @@
-<p align="center"><img src="./Image/js-gif.gif"></p>
+<p align="center" height='350px'><img src="./Image/js-gif.gif"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan </a>!
@@ -11,7 +11,7 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.</h4>
 
-<img height="200px" align="right" src="./Image/fullstack.gif"/>
+<img height="200px" src="./Image/fullstack.gif"/><br/>
 
 <h4>💼 What I do:</h4>
   <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
