@@ -1,4 +1,4 @@
-<p align="center" height='250px'><img src="./Image/js-gif.gif"></p>
+<p align="center"><img height='250px' src="./Image/js-gif.gif"></p>
 
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan </a>!
