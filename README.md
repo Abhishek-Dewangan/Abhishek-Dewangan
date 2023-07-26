@@ -13,12 +13,11 @@
 
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-💼 What I do:
-
-Create responsive and interactive front-end interfaces using React.js.
-Develop RESTful APIs and server-side logic with Node.js and Express.js.
-Design and optimize databases with MongoDB for efficient data handling.
-Implement state management and data flow using Redux for seamless user experiences.
+<h4>💼 What I do:</h4>
+  Create responsive and interactive front-end interfaces using React.js.
+  Develop RESTful APIs and server-side logic with Node.js and Express.js.
+  Design and optimize databases with MongoDB for efficient data handling.
+  Implement state management and data flow using Redux for seamless user experiences.
 🌱 Always learning:
 I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
 
