@@ -9,26 +9,30 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.</h4>
+<h4 align='center'>👋 Hey there! I'm [Your Name], a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
+
+In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked as a Java developer specializing in Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
 
 
 <h4>💼 What I do:</h4>
   <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
-  Develop RESTful APIs and server-side logic with Node.js and Express.js.
-  Design and optimize databases with MongoDB for efficient data handling.
-  Implement state management and data flow using Redux for seamless user experiences.
-    
-  <b>🌱 Always learning: </b>
-  I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
+    Develop responsive front-end interfaces with HTML, CSS, and JavaScript.
+    Create robust and scalable Java applications for Selenium automation testing.
+    Craft RESTful APIs and server-side logic with Node.js and Express.js.
+    Design and optimize databases with MongoDB for efficient data handling.
+    Implement state management and data flow using Redux for seamless user experiences.
+
+  <h4>🌱 Always learning: </h4>
+    I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
   
-  <b>🚀 Open to collaboration: </b>
-  I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
+  <h4>🚀 Open to collaboration: </h4>
+    I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
   
-  <b>💬 Let's connect: </b>
-  I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore my repositories and share your thoughts. I'm looking forward to connecting with fellow developers and exchanging insights.
+  <h4>💬 Let's connect: </h4>
+    I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore my repositories and share your thoughts. I'm looking forward to connecting with fellow developers and exchanging insights.
   
-  <b>🎯 Passionate about impact: </b>
-  My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
+  <h4>🎯 Passionate about impact: </h4>
+    My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
   
   Happy coding and exploring! 🚀</p>
 
