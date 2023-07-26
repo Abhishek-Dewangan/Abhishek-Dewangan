@@ -100,7 +100,7 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 </div>
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-  <h2 align='center'>ℹ &nbsp;Github Info</h2>
+  <!-- <h2 align='center'>ℹ &nbsp;Github Info</h2> -->
 
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
