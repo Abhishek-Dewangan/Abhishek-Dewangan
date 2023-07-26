@@ -92,12 +92,14 @@ In addition to my MERN proficiency, I bring valuable experience from my previous
 </div>
 <br/>
 <h2 align='center'> 🤝 Soft Skills</h2>
+<div align='center' style="display: flex;">
 <img src="https://img.shields.io/badge/Communication-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=problemsolving&logoColor=white" />
   <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
   <img src="https://img.shields.io/badge/Time%20Managment-000000?style=for-the-badge&logo=timemanagment&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptability-%23000000.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Adaptability-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
+  </div>
 </div>
 <br/>
 
