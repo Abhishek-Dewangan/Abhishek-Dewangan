@@ -14,24 +14,24 @@
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 <h4>💼 What I do:</h4>
-<p align="justify" margin="10px">Create responsive and interactive front-end interfaces using React.js.
-Develop RESTful APIs and server-side logic with Node.js and Express.js.
-Design and optimize databases with MongoDB for efficient data handling.
-Implement state management and data flow using Redux for seamless user experiences.</p>
+  <p align="justify" margin-right="1em">Create responsive and interactive front-end interfaces using React.js.
+  Develop RESTful APIs and server-side logic with Node.js and Express.js.
+  Design and optimize databases with MongoDB for efficient data handling.
+  Implement state management and data flow using Redux for seamless user experiences.
+    
+  <b>🌱 Always learning: </b>
+  I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
   
-🌱 Always learning:
-I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
-
-🚀 Open to collaboration:
-I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
-
-💬 Let's connect:
-I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore my repositories and share your thoughts. I'm looking forward to connecting with fellow developers and exchanging insights.
-
-🎯 Passionate about impact:
-My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
-
-Happy coding and exploring! 🚀
+  <b>🚀 Open to collaboration: </b>
+  I'm open to collaborating on exciting projects that push the boundaries of web development. If you're interested in working together or have any ideas to discuss, feel free to reach out!
+  
+  <b>💬 Let's connect: </b>
+  I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore my repositories and share your thoughts. I'm looking forward to connecting with fellow developers and exchanging insights.
+  
+  <b>🎯 Passionate about impact: </b>
+  My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
+  
+  Happy coding and exploring! 🚀</p>
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
