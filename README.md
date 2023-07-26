@@ -32,12 +32,6 @@ I'm a firm believer in the power of knowledge sharing. Don't hesitate to explore
 My goal is to create applications that solve real-world problems and positively impact people's lives. With every line of code, I strive to make a difference.
 
 Happy coding and exploring! 🚀
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
-- 📫 you can reach me at callmeabhi1997@gmail.com
-- 😄 Pronouns: He/Him
   <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
    <br>
 <div align='center'>
