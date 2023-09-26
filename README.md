@@ -1,7 +1,7 @@
 <p align="center"><img height='350px' width="100%" src="./Image/js-gif.gif"></p>
 
 <h2 align="center">
-  Hey there I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer"> Abhishek Dewangan </a>!
+  Hey there 👋 I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Abhishek Dewangan</a>!
 </h2>
 
 <p align="center">
