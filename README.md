@@ -9,17 +9,25 @@
 </p>
 
 <h2 align="center" margin-top={0}> :card_file_box: About Me</h2>
-<h4 align='center'>👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
+<h4 align='center'>👋 Highly skilled and motivated MERN developer with more than a year of experience in building robust web applications.
+Proficient in the full software development life cycle, from planning and design to deployment and maintenance.
+Collaborative team player with strong problem-solving abilities and effective communication skills. Experienced in Python,
+Django, and PostgreSQL, having applied these technologies in a project at my current company. Passionate about
 
-In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked in Java and Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.</h4>
+continuouslearning and staying up-to-date with the latest advancementsin the MERN stack. Dedicated to delivering high-
+quality solutions and enhancing development processesthrough innovative approaches.</h4>
 
 <h4>💼 What I do:</h4>
-  <p align="justify" margin-right={1em}>Create responsive and interactive front-end interfaces using React.js.
-    Develop responsive front-end interfaces with HTML, CSS, and JavaScript.
-    Create robust and scalable Java applications for Selenium automation testing.
-    Craft RESTful APIs and server-side logic with Node.js and Express.js.
-    Design and optimize databases with MongoDB for efficient data handling.
-    Implement state management and data flow using Redux for seamless user experiences.
+  <p align="justify" margin-right={1em}>- Build responsive and interactive front-end interfaces using React.js, HTML, CSS, and JavaScript.
+- Develop robust and scalable backend systems with Node.js, Express.js, and RESTful APIs.
+- Design and optimize databases with MongoDB and PostgreSQL for efficient and reliable data management.
+- Implement state management and data flow using Redux to deliver seamless user experiences.
+- Automate workflows and create web crawlers using Puppeteer for enhanced functionality and data extraction.
+- Integrate APIs and write daily run scripts on AWS Lambda with CloudWatch for automated monitoring and scheduled tasks.
+- Leverage AWS services like EC2, S3, and Lambda to deploy scalable and secure web applications.
+- Build end-to-end web applications, from crafting engaging front-end interfaces to robust backend architectures.
+- Develop and deploy applications using Python and Django for rapid and efficient web development.
+
 
   <h4>🌱 Always learning: </h4>
     I believe in staying up-to-date with the latest trends and continuously honing my skills. Currently, I'm diving deeper into DevOps, cloud technologies, and exploring ways to optimize application performance.
