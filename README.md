@@ -18,15 +18,7 @@ continuouslearning and staying up-to-date with the latest advancementsin the MER
 quality solutions and enhancing development processesthrough innovative approaches.</h4>
 
 <h4>💼 What I do:</h4>
-  <p align="justify" margin-right={1em}>- Build responsive and interactive front-end interfaces using React.js, HTML, CSS, and JavaScript.
-- Develop robust and scalable backend systems with Node.js, Express.js, and RESTful APIs.
-- Design and optimize databases with MongoDB and PostgreSQL for efficient and reliable data management.
-- Implement state management and data flow using Redux to deliver seamless user experiences.
-- Automate workflows and create web crawlers using Puppeteer for enhanced functionality and data extraction.
-- Integrate APIs and write daily run scripts on AWS Lambda with CloudWatch for automated monitoring and scheduled tasks.
-- Leverage AWS services like EC2, S3, and Lambda to deploy scalable and secure web applications.
-- Build end-to-end web applications, from crafting engaging front-end interfaces to robust backend architectures.
-- Develop and deploy applications using Python and Django for rapid and efficient web development.
+  <p align="justify" margin-right={1em}>I specialize in building responsive and interactive front-end interfaces using React.js, HTML, CSS, and JavaScript, complemented by robust backend systems with Node.js, Express.js, and RESTful APIs. My expertise includes designing and optimizing databases with MongoDB and PostgreSQL, implementing seamless state management using Redux, and automating workflows with Puppeteer for advanced data extraction and web crawling. I excel in API integration, writing daily run scripts on AWS Lambda with CloudWatch, and leveraging AWS services like EC2, S3, and Lambda to deploy secure and scalable web applications. Proficient in end-to-end web development, I craft engaging user interfaces and efficient backend architectures. Additionally, I develop and deploy applications using Python and Django for modern, efficient solutions, combining my technical versatility with a passion for delivering impactful digital experiences.
 
 
   <h4>🌱 Always learning: </h4>
